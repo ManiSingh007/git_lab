@@ -1,1 +1,1 @@
-"My First Git Test" 
+This is my collaborative Git practice 
